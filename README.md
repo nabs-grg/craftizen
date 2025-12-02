@@ -130,7 +130,7 @@ You can add more shop cards in the `#shop` section by copying the existing card 
 
 ## License
 
-© 2024 Craftizen. All rights reserved.
+© 2025 Craftizen. All rights reserved.
 
 ## Support
 
@@ -142,4 +142,5 @@ For questions or support, contact us through:
 ---
 
 Made with ❤️ in London, UK
+
 

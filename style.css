@@ -295,11 +295,6 @@ section {
     transform: scale(1.05);
 }
 
-.cta-section {
-    text-align: center;
-    margin-top: 3rem;
-    padding-top: 2rem;
-}
 
 @keyframes slideInUp {
     from {
